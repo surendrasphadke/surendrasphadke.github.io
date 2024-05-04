@@ -1,5 +1,5 @@
 # _config.yml
-
+theme: jekyll-theme-minimal
 title: My Website Title
 description: A brief description of my website
 baseurl: ""
